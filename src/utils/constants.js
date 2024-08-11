@@ -1,6 +1,6 @@
 export const API_KEY = "0f2a0f4d26ee4efda50103325241008";
 
-export const base_url = "http://api.weatherapi.com/v1/current.json?key=";
+export const base_url = "https://api.weatherapi.com/v1/current.json?key=";
 
 export const q = "&q=";
 
